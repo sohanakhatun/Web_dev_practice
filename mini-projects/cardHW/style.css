@@ -1,0 +1,42 @@
+body{
+    border: 1px solid rgb(255, 255, 255);
+    width: 300px;
+
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 15px;
+}
+b{
+    margin-top: 30px;
+    font-family: Rubik,sans-serif;
+    font-size: larger;
+}
+hr{
+    
+    /* width: 300px; */
+    border: 1px solid rgb(207, 195, 195);
+    border-radius: 1px;
+    z-index: 0.5;
+    background-color: rgba(243, 233, 233, 0.2);
+}
+#span1{
+    color: #03a9f4;
+    font-family: Rubik,sans-serif;
+    /* font-weight: 40px; */
+}
+#span2{
+    color: rgb(192, 183, 183);
+    font-family: Rubik,sans-serif;
+    margin: 12px;
+    text-decoration: line-through;
+}
+.box{
+   width: 600px;
+   font-size:10px ;
+    background-color: rgb(27 191 151);
+    color: white;
+    padding: 9px;
+    border-radius: 6px;
+}
